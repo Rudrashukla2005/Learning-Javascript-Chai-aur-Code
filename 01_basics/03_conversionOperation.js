@@ -15,3 +15,18 @@ let Score = 89
 let Scoreinstring = String(Score)
 console.log(Scoreinstring)
 console.log(typeof Scoreinstring)
+
+
+/**********************Operations in Javascript***************************/
+
+let Value = 3
+let NegValue = -Value
+
+console.log(NegValue);
+
+let str1 = "Hello"
+let str2 = " Rudra Shukla."
+
+console.log(str1 + str2);
+
+
