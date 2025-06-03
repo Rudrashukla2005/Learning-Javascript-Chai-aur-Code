@@ -1,4 +1,4 @@
 # Learning-Javascript-Chai-aur-Code
 
-Author-Rudra Shukla.
+Author-Rudra Shukla. <br>
 Learning Javascript with the codes.
